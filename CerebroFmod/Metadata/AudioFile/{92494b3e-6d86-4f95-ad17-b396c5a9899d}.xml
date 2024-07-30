@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{92494b3e-6d86-4f95-ad17-b396c5a9899d}">
+		<property name="assetPath">
+			<value>ibm-computer-keyboard-press-backspace-key-SBA-300098714.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.28641723356009069</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{48ac9eea-a9fd-4422-9c98-ef3928360a86}</destination>
+		</relationship>
+	</object>
+</objects>

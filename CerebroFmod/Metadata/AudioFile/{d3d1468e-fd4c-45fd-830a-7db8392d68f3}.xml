@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3d1468e-fd4c-45fd-830a-7db8392d68f3}">
+		<property name="assetPath">
+			<value>toy-rubber-duck-squeeze-squeak-SBA-300091233.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.69464852607709748</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{48ac9eea-a9fd-4422-9c98-ef3928360a86}</destination>
+		</relationship>
+	</object>
+</objects>

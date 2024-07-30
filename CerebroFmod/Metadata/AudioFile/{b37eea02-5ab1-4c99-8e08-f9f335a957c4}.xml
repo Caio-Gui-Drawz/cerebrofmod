@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b37eea02-5ab1-4c99-8e08-f9f335a957c4}">
+		<property name="assetPath">
+			<value>DS/positivefeedbacksynth.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.172585034013605</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{48ac9eea-a9fd-4422-9c98-ef3928360a86}</destination>
+		</relationship>
+	</object>
+</objects>

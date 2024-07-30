@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0e8684ab-dfc1-477a-affa-a3c63b12189f}">
+		<property name="assetPath">
+			<value>cerebro_test2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>241.84614512471654</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{48ac9eea-a9fd-4422-9c98-ef3928360a86}</destination>
+		</relationship>
+	</object>
+</objects>
